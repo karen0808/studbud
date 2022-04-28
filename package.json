@@ -1,0 +1,26 @@
+{
+  "name": "studbud",
+  "version": "1.0.0",
+  "description": "Web application for studying languages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karen0808/studbud.git"
+  },
+  "keywords": [
+    "study",
+    "application",
+    "study",
+    "languages",
+    "study"
+  ],
+  "author": "Karen Liang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karen0808/studbud/issues"
+  },
+  "homepage": "https://github.com/karen0808/studbud#readme"
+}
